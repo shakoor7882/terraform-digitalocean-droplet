@@ -95,7 +95,7 @@ http://patorjk.com/software/taag/#p=display&f=Ivrit&t=loodos
 
 ## Authors
 
-This module managed by [Emrah Çetiner](https://github.com/emrahcetiner) [@Loodos](https://github.com/Loodos)
+This module managed by [Shakoor Ahmed](https://github.com/shakoor7882) [@Loodos](https://github.com/Loodos)
 
 ## License
 
